@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maham Taj, a junior developer based in Tampere. I have worked in both technical and non-technical fields with 5 years of working experience. I consider myself a reliable and dedicated professional.  
+- 👋 Hi, I’m Maham Taj, a junior developer based in Tampere. I have worked in both technical and non-technical fields with 5 years of working experience in project management. I consider myself a reliable and dedicated professional.  
 - 👀 I’m interested in learning new programming languages.
 - 🌱 I’m currently learning Python and polishing my C++, Java and SQL skills.
 - 📫 You can reach me at maham.taj29@gmail.com
