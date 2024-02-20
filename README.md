@@ -9,5 +9,9 @@
 - 📫 You can reach me at maham.taj29@gmail.com
 - ⚡ I love to travel and try different foods.
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahamtaj29&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Maham's Github Activity" width="49%">
+</div>
+
 ## Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/maham-taj)
