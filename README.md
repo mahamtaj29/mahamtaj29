@@ -2,8 +2,11 @@
 <img  src="images/borderseperator.gif">
 
 
-- 👋 Hi, I’m Maham Taj, a developer based in Tampere. I have worked in both technical and non-technical fields with 5 years of working experience in project management. I consider myself a reliable and dedicated professional.  
-- 👀 I’m interested in learning new programming languages.
-- 🌱 I’m currently learning Python and polishing my C++, Java and SQL skills.
+- 🔭 I’m a developer based in Tampere. I have worked in both technical and non-technical fields with 5 years of working experience in project management. I consider myself a reliable and dedicated professional. 
+- 👀 I’m interested in learning and improving my coding skills.
+- 🌱 I’m currently engaged in a full-stack web development bootcamp.
 - 📫 You can reach me at maham.taj29@gmail.com
 - ⚡ I love to travel and try different foods.
+
+## Connect With Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/maham-taj)
