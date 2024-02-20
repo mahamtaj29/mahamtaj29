@@ -2,7 +2,8 @@
 <img  src="images/borderseperator.gif">
 
 
-- 🔭 I’m a developer based in Tampere. I have worked in both technical and non-technical fields with 5 years of working experience in project management. I consider myself a reliable and dedicated professional. 
+- 🔭 I’m a developer based in Tampere, Finland.
+- 🚀 I have a five years of working experience in project management. I consider myself a reliable and dedicated professional. 
 - 👀 I’m interested in learning and improving my coding skills.
 - 🌱 I’m currently engaged in a full-stack web development bootcamp.
 - 📫 You can reach me at maham.taj29@gmail.com
