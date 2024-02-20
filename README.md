@@ -9,7 +9,7 @@
 - 📫 You can reach me at maham.taj29@gmail.com
 - ⚡ I love to travel and try different foods.
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=mahamtaj29&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Maham's Github Activity" width="49%">
 </div>
 
